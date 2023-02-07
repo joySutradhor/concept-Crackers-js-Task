@@ -10,5 +10,5 @@ function secondLargest ( numbers ) {
     }
 
     let arr = [10,33,5,99,6];
-    let call = secondLargest(arr);
-    console.log(call);
+    let large = secondLargest(arr);
+    console.log(large);
